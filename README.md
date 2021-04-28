@@ -1,2 +1,2 @@
-# JavaKampiGun2Odev1
-Engin Demiroğ hocamızın oluşturduğu java kampının 2.gününün ilk ödevi
+# Java Kampı
+Engin Demiroğ hocamızın oluşturduğu java kampının tüm ödevleri ve java kampıyla ilgili kodladığım her şeyi buraya atacağım.
